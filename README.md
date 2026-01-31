@@ -2,6 +2,7 @@
  <h2>For Login</h2>
  Email: user@gmail.com
  Pass: user123
+ <p>Click on Verify and Re-Login to Unlock Locked Deils</p>
 </div>
 <br/><br/>
 <!-- ===== Hero Images ===== -->
