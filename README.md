@@ -313,13 +313,6 @@ We welcome contributions! Please follow these steps:
     <a href="#startup-benefits-platform">Back to top ↑</a>
   </p>
 </div>
-
-## 🙏 Acknowledgments
-
-- Thanks to all our partner companies for providing exclusive deals
-- Special thanks to the startup community for the inspiration
-- Built with modern web technologies and best practices
-
 ---
 
 <div align="center">
